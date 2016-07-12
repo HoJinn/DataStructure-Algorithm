@@ -12,3 +12,4 @@
 8. List Base Stack
 9. Circular Queue (base Array)
 10. List Base Queue
+11. Deque (base Doubly Linked List)
