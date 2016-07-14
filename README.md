@@ -1,5 +1,7 @@
 # DataStructure
 
+---
+
 ## C_Language
 
 1. Binary Search
@@ -13,3 +15,4 @@
 9. Circular Queue (base Array)
 10. List Base Queue
 11. Deque (base Doubly Linked List)
+12. Binary Tree
