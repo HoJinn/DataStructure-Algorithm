@@ -12,7 +12,8 @@
 6. Doubly Linked List
 7. Array Base Stack
 8. List Base Stack
-9. Circular Queue (base Array)
+9. Circular Queue (Base Array)
 10. List Base Queue
 11. Deque (base Doubly Linked List)
 12. Binary Tree
+13. Priority Queue (Base Heap)
