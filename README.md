@@ -27,3 +27,8 @@
 5. Merge Sort
 6. Quick Sort
 7. Radix Sort
+
+---
+### Search
+1. Interpol Search
+2. Binary Search Tree
