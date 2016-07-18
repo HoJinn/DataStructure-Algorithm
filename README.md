@@ -17,3 +17,13 @@
 11. Deque (base Doubly Linked List)
 12. Binary Tree
 13. Priority Queue (Base Heap)
+
+---
+### Sort
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Heap Sort
+5. Merge Sort
+6. Quick Sort
+7. Radix Sort
