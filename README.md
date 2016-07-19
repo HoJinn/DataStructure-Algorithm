@@ -32,3 +32,4 @@
 ### Search
 1. Interpol Search
 2. Binary Search Tree
+3. AVL Balance
