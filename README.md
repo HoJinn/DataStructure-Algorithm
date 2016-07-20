@@ -33,3 +33,11 @@
 1. Interpol Search
 2. Binary Search Tree
 3. AVL Balance
+
+---
+### Table & Hash
+1. Understand Table
+2. Simple Hash Table
+
+---
+### Graph
