@@ -14,7 +14,7 @@
 
 typedef int LData;
 
-typedef struct _node
+typedef struct _nod
 {
     LData data;
     struct _node * next;
